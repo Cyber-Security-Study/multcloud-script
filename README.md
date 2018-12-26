@@ -1,5 +1,10 @@
 # MultCloud Script
 
+## Repository Abandoned
+### **I do not manage this repository anymore. Feel free to fork/clone it and do whatever you want with it.**
+
+---
+
 A userscript for MultCloud containing features to help productivity in MultCloud.
 
 **Current Features**:
